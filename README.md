@@ -49,20 +49,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 ---
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashimalghe86&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rashimalghe86&show_icons=true&theme=tokyonight" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashimalghe86&layout=compact&theme=tokyonight" width="40%" />
-</p>
-
----
-
 ## 📬 Contact  
 📧 **Email:** rashimalghe86@gmail.com 
 🔗 **LinkedIn:** (https://www.linkedin.com/in/rashimalghe/)  
