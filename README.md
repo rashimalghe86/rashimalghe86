@@ -9,12 +9,12 @@
 
 ---
 
-# Profile
+# 🧑‍💼 Profile  
 I work at the intersection of **Digital Health**, **Data Science**, and **Clinical AI**, developing real-world solutions that improve clinical workflows, enhance patient safety, and support data-driven hospital decision-making.
 
 ---
 
-# Core Skills  
+# 🧠 Core Skills  
 **Programming:** Python, SQL  
 **Machine Learning:** Classical ML, Scikit-Learn, PyTorch  
 **Healthcare AI:** Clinical NLP, Time-Series Modeling, Risk Prediction, Radiology AI  
@@ -24,26 +24,39 @@ I work at the intersection of **Digital Health**, **Data Science**, and **Clinic
 
 ---
 
-# Featured Projects  
-Below is a curated selection of my healthcare AI work.
+# 🧩 Skills Matrix  
+
+| Category              | Skills                                                                 |
+|----------------------|-------------------------------------------------------------------------|
+| Programming          | Python, SQL                                                             |
+| ML / AI              | Classical ML, Scikit-Learn, PyTorch                                     |
+| Healthcare AI        | Clinical NLP, Risk Prediction, Radiology AI, ICU Models                |
+| Data Analysis        | Pandas, NumPy, Matplotlib, Seaborn                                      |
+| Applications         | Streamlit, Flask                                                        |
+| Tools & Environments | Docker, VS Code, GitHub, Jupyter Notebook                               |
+
+---
+
+# 📁 Featured Projects  
+Below is a curated selection of my healthcare AI projects.
 
 ---
 
 ## 1. Clinical Documentation Assistant  
-AI system that generates structured clinical summaries and extracts important clinical entities.
+AI system that generates structured clinical summaries and extracts important entities.
 
 **Tech:** Python, NLP, Streamlit  
 **Repository:** https://github.com/rashimalghe86/ai-clinical-documentation-assistant
 
 <details>
-<summary><strong>Screenshot</strong></summary>
+<summary><strong>📷 Screenshot</strong></summary>
 
 <img src="https://raw.githubusercontent.com/rashimalghe86/rashimalghe86/main/images/clinical_documentation_assistant.png" width="800">
 
 </details>
 
 <details>
-<summary><strong>Demo Video</strong></summary>
+<summary><strong>🎬 Demo Video</strong></summary>
 
 https://github.com/rashimalghe86/rashimalghe86/releases/download/v1/clinical_documentation_assistant.mp4
 
@@ -58,7 +71,7 @@ Machine learning system for predicting sepsis risk using ICU vital signs and cli
 **Repository:** https://github.com/rashimalghe86/ICU-Early-Warning-System
 
 <details>
-<summary><strong>Screenshot</strong></summary>
+<summary><strong>📷 Screenshot</strong></summary>
 
 <img src="https://raw.githubusercontent.com/rashimalghe86/rashimalghe86/main/images/icu_early_warning_system.png" width="800">
 
@@ -73,7 +86,7 @@ Deep learning model for chest X-ray classification with Grad-CAM interpretabilit
 **Repository:** https://github.com/rashimalghe86/AI-Radiology-Assistant
 
 <details>
-<summary><strong>Screenshot</strong></summary>
+<summary><strong>📷 Screenshot</strong></summary>
 
 <img src="https://raw.githubusercontent.com/rashimalghe86/rashimalghe86/main/images/ai_radiology_assistant.png" width="800">
 
@@ -82,13 +95,13 @@ Deep learning model for chest X-ray classification with Grad-CAM interpretabilit
 ---
 
 ## 4. Patient Vitals Dashboard  
-Interactive dashboard for analyzing patient vital sign trends and anomalies.
+Interactive dashboard for analyzing patient vital sign trends and patterns.
 
 **Tech:** Python, Pandas, Matplotlib, Streamlit  
 **Repository:** https://github.com/rashimalghe86/patient-vitals-dashboard
 
 <details>
-<summary><strong>Demo Video</strong></summary>
+<summary><strong>🎬 Demo Video</strong></summary>
 
 https://github.com/rashimalghe86/rashimalghe86/releases/download/v1/patient_vitals_dashboard.mp4
 
@@ -96,20 +109,7 @@ https://github.com/rashimalghe86/rashimalghe86/releases/download/v1/patient_vita
 
 ---
 
-# GitHub Activity
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rashimalghe86&show_icons=false&theme=transparent&hide_border=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashimalghe86&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=rashimalghe86&theme=transparent&hide_border=true"/>
-</p>
-
----
-
-# Contact  
+# 📞 Contact  
 **Email:** rashimalghe86@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/rashimalghe/  
 **GitHub:** https://github.com/rashimalghe86  
