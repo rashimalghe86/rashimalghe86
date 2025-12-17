@@ -1,16 +1,16 @@
-<!-- Professional Banner -->
+<!-- Colorful Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Rashi%20Malghe-Professional%20Portfolio-003B73?style=for-the-badge&labelColor=0A0A0A&color=003B73" width="500">
+  <img src="https://img.shields.io/badge/Rashi%20Malghe-AI%20in%20Healthcare%20%7C%20Digital%20Health%20%7C%20Data%20Science-0A84C1?style=for-the-badge&labelColor=1A1A1A&color=0A84C1" width="700">
 </p>
 
-<p align="center" style="font-size: 18px;">
-  MSc Digital Health • AI in Healthcare • Clinical Machine Learning  
+<p align="center" style="font-size: 18px; color:#003B73;">
+  MSc Digital Health • Clinical Machine Learning • Healthcare AI
 </p>
 
 ---
 
 # Profile
-I work at the intersection of **Digital Health**, **Data Science**, and **Clinical AI**, developing solutions that strengthen clinical workflows, improve patient safety, and support data-driven decision-making in hospitals.
+I work at the intersection of **Digital Health**, **Data Science**, and **Clinical AI**, developing real-world solutions that improve clinical workflows, enhance patient safety, and support data-driven hospital decision-making.
 
 ---
 
@@ -30,7 +30,7 @@ Below is a curated selection of my healthcare AI work.
 ---
 
 ## 1. Clinical Documentation Assistant  
-AI system that generates structured clinical summaries and extracts key entities from free-text notes.
+AI system that generates structured clinical summaries and extracts important clinical entities.
 
 **Tech:** Python, NLP, Streamlit  
 **Repository:** https://github.com/rashimalghe86/ai-clinical-documentation-assistant
@@ -117,5 +117,5 @@ https://github.com/rashimalghe86/rashimalghe86/releases/download/v1/patient_vita
 ---
 
 <p align="center">
-  <strong>Focused on building reliable, practical AI solutions for clinical impact.</strong>
+  <strong>Focused on building reliable and impactful AI solutions for clinical environments.</strong>
 </p>
